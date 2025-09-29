@@ -33,8 +33,8 @@ This project analyzes the Online Retail dataset to uncover insights about custom
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/codeswa1/Online-Retail.git
+cd Online-Retail
 ```
 2. Install dependencies:
 ```bash
