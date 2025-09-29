@@ -17,10 +17,10 @@ This project analyzes the Online Retail dataset to uncover insights about custom
 
 ## Dataset
 - **Name:** Online Retail
-- **Source:** The dataset used (`OnlineRetail.csv`) is included in this repository.
+- **Source:** The dataset used (`OnlineRetail.xlsx`) is included in this repository.
 - **Description:** Transactional data from an online retail store, including:
   - `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`.
-
+**NOTE:** Convert the .xlsx file to .csv before running the Notebook 
 ## Requirements
 - Python 3.x
 - pandas
